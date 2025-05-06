@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+
 <img
   align="right"
   alt="Coding GIF"
-  width="200"
-  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+  width="300"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 />
 
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=ajaykumar124&label=Profile%20views&color=0e75b6&style=flat"
     alt="ajaykumar124"
-  />
+/>
 </p>
+
 
 
 - 🌱 I’m currently learning **fullstack web development**
