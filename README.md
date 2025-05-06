@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <img
   align="right"
-  alt="Ajay Kumar"
+  alt="Coding GIF"
   width="200"
-  src="https://avatars.githubusercontent.com/ajaykumar124?v=4"
+  src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
 />
 
 <p align="left">
@@ -13,6 +13,7 @@
     alt="ajaykumar124"
   />
 </p>
+
 
 - 🌱 I’m currently learning **fullstack web development**
 
