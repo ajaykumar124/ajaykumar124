@@ -5,7 +5,7 @@
   align="right"
   alt="Coding GIF"
   width="300"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
 />
 
 <p align="left">
@@ -14,7 +14,6 @@
     alt="ajaykumar124"
 />
 </p>
-
 
 
 - 🌱 I’m currently learning **fullstack web development**
